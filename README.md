@@ -37,7 +37,7 @@ This data set can be used for text mining purposes.
 
 ```
 README.md
-Scraping-The-Simpsons-Transcripts-with-R.pdf
+Scraping-U2-Lyrics-with-R.pdf
 code/
   script1-scrape-album-year-and-song.R
   script2-download-song-html-files.R
